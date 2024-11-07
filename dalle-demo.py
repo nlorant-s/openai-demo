@@ -1,3 +1,6 @@
+# Author: Niko Lorantos
+# https://platform.openai.com/docs/overview for more information
+
 import os
 from openai import OpenAI # make sure to 'pip install openai' if you haven't already
 from dotenv import load_dotenv
