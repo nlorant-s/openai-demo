@@ -4,7 +4,7 @@ Welcome to the Introduction to OpenAI Developer Platform workshop! This reposito
 
 ## Getting Started
 
-1. Get your OpenAI API key [here](#) 
+1. Get your OpenAI API key [here](https://forms.gle/ENvXM5iFe5oLmEdc7) 
 2. Check out the workshop slides [here](https://docs.google.com/presentation/d/1-ihMognjivw5Z5yQvwrAHpWxJvfwRa2ySZ_gUN4uj1E)
 3. Clone this repository to get started with the demo code
 
