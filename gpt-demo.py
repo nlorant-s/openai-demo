@@ -23,3 +23,4 @@ completion = client.chat.completions.create(
 
 output = completion.choices[0].message.content
 
+print(output)

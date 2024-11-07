@@ -1,0 +1,2 @@
+# add the below line to a .env file
+# OPENAI_API_KEY = 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
