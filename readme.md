@@ -1,11 +1,11 @@
 # OpenAI API Workshop - HackUMass 2024
 
-Welcome to the Introduction to OpenAI Developer API workshop! This repository contains starter code for various OpenAI API implementations.
+Welcome to the Introduction to OpenAI Developer Platform workshop! This repository contains starter code for various OpenAI API implementations.
 
 ## Getting Started
 
-1. Request your API key by filling out [this form](#) 
-2. Check out the workshop slides [here](https://docs.google.com/presentation/d/1-ihMognjivw5Z5yQvwrAHpWxJvfwRa2ySZ_gUN4uj1E/edit#slide=id.g3124168dcd9_0_302)
+1. Get your OpenAI API key [here](#) 
+2. Check out the workshop slides [here](https://docs.google.com/presentation/d/1-ihMognjivw5Z5yQvwrAHpWxJvfwRa2ySZ_gUN4uj1E)
 3. Clone this repository to get started with the demo code
 
 ## Repository Contents
