@@ -1,2 +1,4 @@
+# make sure not to push your environment variables to git
 .env
+# optionally, do not push cache files to git
 __pycache__/
