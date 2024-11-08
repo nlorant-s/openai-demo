@@ -14,10 +14,10 @@ api_key = os.environ["OPENAI_API_KEY"]
 client = OpenAI(api_key=api_key)
 
 response = client.images.generate(
-  model="dall-e-3",
+  model="dall-e-3", # or dalle-2
   prompt="a white siamese cat",
-  size="1024x1024",
-  quality="standard",
+  size="1024x1024", # other options: 1024×1792, 1792×1024
+  quality="standard", # other option: HD
   n=1,
 )
 
