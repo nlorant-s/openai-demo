@@ -14,8 +14,7 @@ This repository includes several demo files to help you get started with differe
 
 - `gpt-demo.py`: Starter code for GPT-4o implementation
 - `dalle-demo.py`: Example implementation of DALL-E 3 image generation
-- `tts-demo.py`: Text-to-Speech demonstration using OpenAI's TTS
-- `whisper-demo.py`: Speech-to-text demo using Whisper
+- `tts-whisper-demos.py`: Text-to-Speech demonstration using OpenAI's TTS, then transcribed back into text!
 - `embeddings-demo.py`: Vector embeddings example using OpenAI's embedding models
 
 ## Prerequisites
