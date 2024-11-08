@@ -53,4 +53,4 @@ python gpt-demo.py
 
 ## Workshop Info
 
-This workshop was presented at HackUMass 2024. For questions or support, please reach out to [Niko Lorantos](https://nikolorantos.com).
+This workshop was presented at HackUMass 2024. For questions or support, please reach out to [Niko Lorantos](https://nikolorantos.com). 
